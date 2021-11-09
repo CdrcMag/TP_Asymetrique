@@ -72,7 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-TP_Asym/Intermediate/CachedAssetRegistry.bin
-TP_Asym/Saved/AutoScreenshot.png
-TP_Asym/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-TP_Asym/Saved/Logs/TP_Asym.log
